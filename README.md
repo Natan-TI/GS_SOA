@@ -61,7 +61,7 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
 
 ### 1. **Clonar o repositório**  
    ```bash
-   git clone <URL_DO_REPOSITÓRIO>  
+   git clone https://github.com/Natan-TI/GS_SOA
    cd powercast-service
    ```
 
